@@ -1,7 +1,4 @@
-![React App](https://github.com/LucasSaidman/PreEntregas-Saidman-ReactJs/assets/138718543/3f7c065e-a89c-42e6-9795-aeb37ea79fe1)
-
-
-
+![React App](https://github.com/LucasSaidman/PreEntregas-Saidman-ReactJs/assets/138718543/e8819a6c-553f-41d0-aed0-a7f731ce40e9)
 
 # Getting Started with Create React App
 
